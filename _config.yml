@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Base
-url: "https://aluno-green.github.io"
+title: GreenMindLabs
+url: "https://greenmindlabs.com"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -10,11 +10,11 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
-author:
+description: Conhecimento foi feito para ser partilhado e não guardado.
+author: GreenMind
   name:
-  email:
-  twitter: # twitter username without the @ symbol
+  email: greenmind.sec@gmail.com
+  twitter: @greenmind-br
 social:
   name: Base Template
   links:
